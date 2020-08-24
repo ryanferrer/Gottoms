@@ -9,12 +9,4 @@
 
 */
 
-// import variables partial files
-@import './partials/variables/_variables.scss';
-@import './partials/variables/_defaults.scss';
-
-// import element partials files
-@import './partials/elements/_sample.scss';
-
-// import container partials files
-@import './partials/containers/_sampleContainer.scss';
+@import './setViewer.scss';

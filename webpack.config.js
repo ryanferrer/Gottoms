@@ -10,8 +10,8 @@ module.exports = {
   },
   resolve: {
     alias: {
-      '#scss': path.join(__dirname, 'scss/'),
-      '#assets': path.join(__dirname, 'assets/'),
+      '@scss': path.join(__dirname, 'scss/'),
+      '@assets': path.join(__dirname, 'assets/'),
     },
   },
   devServer: {
